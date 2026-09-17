@@ -96,7 +96,7 @@ to comply with environmental and sustainability requirements.
   
 - Former account on **SQL.ru** (not supported anymore due to .ru domain zone restrictions)
   
-- Resume : [Open Google resource]([https://drive.google.com/drive/folders/1Q1aw5hjbVl-50l49jOZ2L3hWipfNeXa4?usp=drive_link](https://drive.google.com/file/d/1gn7Y3McZpiQc5cOb9NtXqHUJW2gVj1Ny/view?usp=drive_link])  - Access on request
+- Resume : [Open Google resource]([https://drive.google.com/drive/folders/1Q1aw5hjbVl-50l49jOZ2L3hWipfNeXa4?usp=drive_link](https://drive.google.com/file/d/1gn7Y3McZpiQc5cOb9NtXqHUJW2gVj1Ny/view?usp=drive_link)  - Access on request
 
 ⭐ Access to private projects can be granted upon request.
 
