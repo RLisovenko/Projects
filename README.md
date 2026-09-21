@@ -1,6 +1,6 @@
-# LiR Portfolio of Projects
+# LiR of Projects
 
-Welcome to my professional portfolio.  
+Welcome to my Projects.  
 Below you can find a summary of selected projects I have worked on.  
 Some repositories are **private**, but I can provide access upon request.
 
