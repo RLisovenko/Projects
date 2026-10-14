@@ -71,6 +71,14 @@ to comply with environmental and sustainability requirements.
 - **[JupyterNotebook](https://github.com/RLisovenko/JupyterNotebook.git)** - JupyterNotebook
 - **[Databases](https://github.com/RLisovenko/Databases.git)** - Databases
 
+### 🌐 Web Design & Frontend Development
+
+Previous experience with HTML, CSS, JavaScript, Microsoft SharePoint Portal, website design, SEO, and maintenance.
+
+**[Education – Web Development](https://github.com/RLisovenko/Education/tree/main/0_WebDevelopment)** | **[MicroCompany Website](https://www.microcompany.com.ua/)**
+
+Historical project experience (2005–2022), with website updates and modernization in 2026.
+
 ## Old Projects
 - **[1998-2000](https://github.com/RLisovenko/old_projects_1998_2000)** – Desktop application EBA.  
 - **[2000-2005](https://github.com/RLisovenko/old_proects_2000_2005)** – Desktop application like (ORTA,NOMADIC,INSY, IRBIS) for automation of various processes in the enterprise and generate automated reports.  
