@@ -47,7 +47,10 @@ inventory, sales tracking, and reporting.
 ---
 
 ### Digitalization of Educational Institutions
-Development of IT solutions to accelerate **digital transformation** in schools and universities.
+
+Development and implementation of IT solutions for schools and educational institutions, including software integration, interactive technologies, and technical support.
+
+**[MicroCompany – Educational Solutions](https://www.microcompany.com.ua/)**
 
 ---
 
@@ -71,7 +74,7 @@ to comply with environmental and sustainability requirements.
 ## Old Projects
 - **[1998-2000](https://github.com/RLisovenko/old_projects_1998_2000)** – Desktop application EBA.  
 - **[2000-2005](https://github.com/RLisovenko/old_proects_2000_2005)** – Desktop application like (ORTA,NOMADIC,INSY, IRBIS) for automation of various processes in the enterprise and generate automated reports.  
-- **[2005-2022](https://github.com/RLisovenko/MicroCompany.git)** – The MicroCompany website with Forum Portal is currently not supported. -> **[MC](https://www.microcompany.com.ua/MicroCompany.html)** 
+- **[2005–2022](https://github.com/RLisovenko/MicroCompany)** – MicroCompany corporate website, educational solutions, and web applications, including a discussion forum. Website updated in 2026. → **[Visit website](https://www.microcompany.com.ua/)**
 
 ---
 
@@ -100,5 +103,5 @@ to comply with environmental and sustainability requirements.
 
 ⭐ Access to private projects can be granted upon request.
 
-![Profile views](https://komarev.com/ghpvc/?username=RLisovenko)
+![Profile views](https://komarev.com/ghpvc/?username=RLisovenko&label=Profile%20views&color=blue)
 
